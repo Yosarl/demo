@@ -2,6 +2,9 @@ menu
 master account
 prod reg
 firebase console
+supabase console
 sales b2c
 sales b2b
 sales return 
+sales quatation
+
