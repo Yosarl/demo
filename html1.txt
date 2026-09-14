@@ -1,3 +1,4 @@
 menu
 master account
 prod reg
+supabase console
