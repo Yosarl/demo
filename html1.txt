@@ -2,3 +2,4 @@ menu
 master account
 prod reg
 firebase console
+sales b2c
