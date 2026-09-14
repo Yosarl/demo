@@ -2,3 +2,4 @@ menu
 master account
 prod reg
 supabase console
+sales b2c
